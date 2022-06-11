@@ -1,0 +1,39 @@
+What's git?
+Why git?
+What's github?
+Github vs git
+Commit
+Pull request
+Contribute to open source
+
+Git => version control software to track content and allow multiple developers to work on a project simultaneously.
+
+Commit:
+    The "commit" command is used to save your changes to the local repository.
+
+Branch:
+    pointer to a snapshot of the changes. The default branch name in Git is master . 
+    As you start making commits, you’re given a master branch that points to the last commit you made. 
+    Every time you commit, the master branch pointer moves forward automatically.
+
+Github:
+    Repo hosting service for software development and version control using git.
+
+* Git is a version control software whereas github uses git to allow users to remotely host their code and allow others to contribute.
+
+
+Open a terminal.(Don't use powershell)
+
+Commands:
+
+    git init => initialises an empty repo.
+
+    git add <file_name> => Stages the specified file name.
+
+    git add . => Stages all changes.
+
+    git commit -m "<commit_message>" => Commits the staged changes.
+
+    git log => gives the details of the last commits.
+
+    gitignore => ignores certain files from uploading to the github.
