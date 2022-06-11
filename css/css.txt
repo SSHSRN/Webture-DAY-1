@@ -1,0 +1,43 @@
+CSS => Stylesheet language used to style a website
+
+While html has tags, css has selectors.
+
+Types of css:
+    |=> Inline
+    |=> Internal
+    |=> External
+
+Css selectors:
+    |=> Element
+    |=> Class
+    |=> Id
+    |=> Combinators
+    |=> Pseudo classes
+    |=> Attribute
+
+Spacing arounf elements:
+    |=> Margin
+    |=> Border
+    |=> Padding
+    |=> Content
+
+
+ Position:
+    |=> Static
+    |=> Relative
+    |=> Abs
+    |=> Fixed
+
+Flesxbox => 1D layout
+Grid => Muli-dmensional layout
+
+z-index => Layers
+
+Keyframes => Animations
+
+Units of measurement:
+    |=>vh
+    |=>vw
+    |=>rem   1rem = 16px
+    |=>em
+    |=>px => pixels
