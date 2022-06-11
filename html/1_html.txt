@@ -1,0 +1,13 @@
+HTML => not a programming language.
+
+Tags => <tag_name>content</tag_name>
+
+Block elements => takes up full width
+Inline elements => only takes up required space
+
+Attributes => provide additional info abt elements
+
+    |=>  class
+    |=> id
+    |=> span
+    |=> div
