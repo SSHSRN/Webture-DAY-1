@@ -1,10 +1,11 @@
-What's git?
-Why git?
-What's github?
-Github vs git
-Commit
-Pull request
-Contribute to open source
+Topics to learn:
+    What's git?
+    Why git?
+    What's github?
+    Github vs git
+    Commit
+    Pull request
+    Contribute to open source
 
 Git => version control software to track content and allow multiple developers to work on a project simultaneously.
 
@@ -37,3 +38,7 @@ Commands:
     git log => gives the details of the last commits.
 
     gitignore => ignores certain files from uploading to the github.
+
+    git pull => pull the latest commit from the repo.
+
+    git clone => clone a github repo from github offline.
